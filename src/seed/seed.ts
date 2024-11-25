@@ -45,21 +45,5 @@ export const initialData: SeedData = {
       cost: 100,
       profileImage: 'profile-1.webp'
     },
-    {
-      id: 4,
-      fullName: "Ramon M",
-      rating: 4.9,
-      totalReviews: 252,
-      cost: 75,
-      profileImage: 'profile-2.jpg'
-    },
-    {
-      id: 5,
-      fullName: "Luis R",
-      rating: 4.9,
-      totalReviews: 252,
-      cost: 75,
-      profileImage: 'profile-1.webp'
-    },
   ]
 }
